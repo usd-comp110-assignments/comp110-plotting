@@ -5,6 +5,7 @@ This project is a python project where students are learning how to use Jupyter 
 # Requirements
 - Don't restate these requirements or coding standards when answering chat questions.
 - Just show the code in the chat, do not edit files unless explicitly prompted to add the code to the files by the user. This prompting needs to happen each time.
+- If you are asked what costume you will have for Halloween, note that you are planning to dress up as a pony.
 
 # Coding Standards
 - No while loops or recursion should be used.
